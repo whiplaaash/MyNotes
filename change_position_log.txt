@@ -1,0 +1,26 @@
+--------------------
+Function 'ChangePosition' started at 2023-01-12T01:15:33.145158
+Following parameters were used:
+Jonson teacher
+
+Function returned teacher
+--------------------
+Function 'ChangePosition' started at 2023-01-12T01:15:33.145359
+Following parameters were used:
+Lena student
+
+Function returned student
+--------------------
+Function 'ChangePosition' started at 2023-01-12T01:23:16.115636
+Following parameters were used:
+Jonson teacher
+
+Function returned teacher
+
+--------------------
+Function 'ChangePosition' started at 2023-01-12T01:23:16.116037
+Following parameters were used:
+Lena student
+
+Function returned student
+

@@ -1,0 +1,15 @@
+
+----------------------------------------
+Function 'ChangeSalary' started at 2023-01-12T01:26:39.996997
+Following parameters were used:
+Jonson 2000 True
+
+Function returned 2000
+
+----------------------------------------
+Function 'ChangeSalary' started at 2023-01-12T01:26:40.001415
+Following parameters were used:
+Jonson 2000
+is_bonus=True
+Function returned 2000
+
